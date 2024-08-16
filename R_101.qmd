@@ -1,0 +1,81 @@
+---
+title: "R Studio 101"
+format: 
+  revealjs:
+    css: slides_style.css
+editor: visual
+---
+
+# R Studio
+
+-   IDE that makes working with R easier
+
+-   Version: 2024.04.2+764
+
+-   R studio Desktop or Posit Cloud
+
+# Why R studio
+
+-   Integrated panels for easier workflow
+
+-   Git version control
+
+-   Quatro and Rmarkdown for easier code-text integration/reports
+
+-   R projects
+
+-   Code autocomplete and Copilot
+
+# Panel configuration walk-through
+
+## ![](03_viz/panel_4.png)
+
+## ![](03_viz/panel_4_1.png)
+
+## ![](03_viz/panel_4_2.png)
+
+## ![](03_viz/panel_4_3.png)
+
+## ![](03_viz/panel_4_4%20.png)
+
+# Panel configuration
+
+<div class="side-by-side">
+
+::: image-column
+![](03_viz/appearance.png){width="500"}
+:::
+
+::: text-column
+-   Tools -\>Global options
+    -   Panel Layout
+
+    -   Appearance
+
+        </div>
+:::
+
+# R Project
+
+-   self-contained directory
+
+-   allows reproducibility: environment & history
+
+-   allows easy integration with Git
+
+----
+
+<div class="side-by-side">
+
+::: image-column
+![](03_viz/project.png){width="400"}
+:::
+
+::: text-column
+-   File -\>New Project ...
+
+    </div>
+
+:::
+
+# Markdown & Quatro
